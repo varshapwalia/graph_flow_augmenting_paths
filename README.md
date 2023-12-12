@@ -7,11 +7,11 @@ This project implements various algorithms for solving the maximum flow problem 
 - Python 3.12.0
 - Required Python packages (only inbuilt python libraries are used)
 - ASCII encodings of all your source-sink graphs as input to your simulation code, one
-file per graph. (provided in the code zip file)
+file per graph. (provided in the repo file)
 
 ## Installation
 
-1. Copy the code zip file to your local machine.
+1. Pull the code with git pull.
 2. Navigrate to the project folder with executable files.
 
 ## Running Simulations and Test
